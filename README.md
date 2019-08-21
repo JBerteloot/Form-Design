@@ -1,3 +1,7 @@
+#### Check out live demo of this project at https://jberteloot.github.io/Form-Design/.
+
+# Form-Design: Assignment Instructions
+
 ## You Should Know
 - HTML
 - CSS Layout
